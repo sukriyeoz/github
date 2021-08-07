@@ -10,7 +10,7 @@ public class MythirdClass {
 
 
         
-
+       String ahmetCode="this code is in my local";
         
        System.out.println("this is remote repo code");
     }
