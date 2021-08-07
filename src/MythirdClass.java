@@ -10,7 +10,7 @@ public class MythirdClass {
 
 
         
-
+    String ahmetCode="This code is push to remote repository";
         
        System.out.println("this is remote repo code");
     }
