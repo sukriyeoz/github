@@ -10,7 +10,11 @@ public class MythirdClass {
 
 
         
+<<<<<<< HEAD
     String ahmetCode="This code is push to remote repository";
+=======
+       String ahmetCode="this code is in my local";
+>>>>>>> 8f5b7851f989207ccc189ebf818a3a1c554f0f0c
         
        System.out.println("this is remote repo code");
     }
